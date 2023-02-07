@@ -1,3 +1,5 @@
+![banner9](https://user-images.githubusercontent.com/50042786/217245752-70de6ebc-725a-4f9d-b5c9-7e34d3de41a7.gif)
+
 ### Hi there 👋
 
 I am an enthusiastic software engineer with over 8 years of experience in the field. Throughout my career, I have been a part of many successful software applications and have played a crucial role in their complete product development lifecycle. I have a passion for software development and a love for coding that drives me to take on as many projects as possible.
@@ -16,6 +18,8 @@ Thank you for taking the time to read my profile, and I look forward to the oppo
 ⚡Here's a fun fact about my Muhammad ibn Musa al-Khwarizmi, the father of algorithms:
 
 Muhammad ibn Musa al-Khwarizmi was a Persian mathematician and astronomer who lived in the 9th century. He laid the foundations for the field of algebra and is considered to be the father of algorithms. His work has had a profound impact on the field of mathematics and science, and I have a great admiration for him and his contributions. He continues to inspire me in my coding journey and serves as a reminder of the importance of innovative thinking and problem-solving in the field of technology.⚡
+
+![EAT SLEEP CODE REPEAT](https://user-images.githubusercontent.com/50042786/217245670-11c3b312-c8f7-40fb-8b47-16ffadc0e14a.gif)
 
 Sincerely,
 
