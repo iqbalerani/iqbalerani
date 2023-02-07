@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am an enthusiastic software engineer with over 8 years of experience in the field. Throughout my career, I have been a part of many successful software applications and have played a crucial role in their complete product development lifecycle. I have a passion for software development and a love for coding that drives me to take on as many projects as possible.
+I am an enthusiastic software engineer with over 15 years of experience in the field. Throughout my career, I have been a part of many successful software applications and have played a crucial role in their complete product development lifecycle. I have a passion for software development and a love for coding that drives me to take on as many projects as possible.
 
 👨🏽‍💻My expertise lies in object-oriented programming, developing, testing and debugging code, designing interfaces and administering systems and networks. I have worked on a wide range of projects, from e-commerce websites to cloud application development and mobile applications. My experience and passion for software development have enabled me to work with some amazing clients and deliver high-quality software solutions that meet their needs and exceed their expectations.
 
